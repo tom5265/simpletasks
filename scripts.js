@@ -30,3 +30,5 @@ function addName () {
     span.innerHTML = 'Tom M.';
     nameDiv.appendChild(span);
 }
+
+var friends = ['Mike', 'Justin', 'Kevin', 'Will', 'Charlie', 'Brittain', 'Colbin', 'Colton', 'Brandon', 'Lindsey'];
